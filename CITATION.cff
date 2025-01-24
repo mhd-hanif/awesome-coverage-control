@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If this overiew is useful to you, please cite as below."
+authors:
+  - family-names: Hanif
+    given-names: Muhammad
+    orcid: https://orcid.org/0009-0001-0475-8711 
+title: ""
+version: 1.0.0
+url: https://github.com/mhd-hanif/awesome-coverage-control 
